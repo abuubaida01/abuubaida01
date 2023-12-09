@@ -2,8 +2,15 @@
 # Assalam O Alaikum👋
 
 ## **Nitty Gritty Details :blush:**
-I am an undergraduate In my Fifth Semester at Umaer Basha Institute of Information Technology (UBIT) Karachi University. I have sound knowledge of Machine-Learning, Deep-Learning, Pytorch, DL Architectures, EDA, Python & its libraries, and also Basic knowledge of NLP and OpenCV. Currently, I am Learning RNN from Coursera (🌱).
-I have achieved some Certificate :page_with_curl: from Coursera, Al-Nafi, and DataCamp in the domain of Machine Learning, Deep Learning, and Exploratory Data Analysis.
+- I am an undergraduate In my final year at Umaer Basha Institute of Information Technology (UBIT) Karachi University. 
 
----
+- 🚀 Experienced professional with a robust background in Django backend development and a knack for frontend, ML, and DevOps
+
+- 💻 Proficient in Python, Django, Django Rest-Framework, Machine Learning, HTML, CSS, JavaScript, AJAX, and well-versed in cloud computing (GCP), containerization, Kubernetes, and CI/CD best practices.
+
+- 🔍 Always ready for exciting opportunities as a Software Engineer to apply my skills and drive mutual success. 
+
+- Operating Sefarz, a social media platform for the Muslim community that is currently under development for a better experience!
+*Visit: sefarz.com*
+
 - 📫 You can get in touch by 0331-2371338 👋 or abuubaida901@gmail.com
