@@ -12,4 +12,4 @@
 - Operating Sefarz, a social media platform for the Muslim community that is currently under development for a better experience!
 *Visit: sefarz.com*
 
-- 📫 You can get in touch by 0331-2371338 👋 or abuubaida901@gmail.com
+- 📫 You can get in touch by 👋 or abuubaida901@gmail.com
