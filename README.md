@@ -1,6 +1,5 @@
 # Assalam O Alaikum | Hey 👋
 
-## **Nitty Gritty Details :blush:**
 - I am an undergraduate In my final year at Umaer Basha Institute of Information Technology (UBIT) Karachi University. 
 
 - 🚀 Experienced professional with a robust background in Django backend development and a knack for frontend, ML, and DevOps
