@@ -1,16 +1,13 @@
-## Hi there 👋
+Assalam O Alaikum | Hey 👋
 
-<!--
-**abuubaida01/abuubaida01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    I am an undergraduate In my final year at Umaer Basha Institute of Information Technology (UBIT) Karachi University.
 
-Here are some ideas to get you started:
+    🚀 Experienced professional with a robust background in Django backend development and a knack for frontend, ML, and DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    💻 Proficient in Python, Django, Django Rest-Framework, Machine Learning, HTML, CSS, JavaScript, AJAX, and well-versed in cloud computing (GCP), containerization, Kubernetes, and CI/CD best practices.
+
+    🔍 Always ready for exciting opportunities as a Software Engineer to apply my skills and drive mutual success.
+
+    Operating Sefarz, a social media platform for the Muslim community that is currently under development for a better experience! Visit: sefarz.com
+
+    📫 You can get in touch by 👋 or abuubaida901@gmail.com
