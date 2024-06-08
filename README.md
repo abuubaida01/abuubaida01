@@ -9,6 +9,6 @@
 
 - 🔍 Always ready for exciting opportunities as a Software Engineer to apply my skills and drive mutual success.
 
-- Operating Sefarz, a social media platform for the Muslim community that is currently under development for a better experience! Visit: sefarz.com
+- Operating AddaZakat, a social media platform for the Muslim community that is currently under development for a better experience! Visit: sefarz.com
 
 - 📫 You can get in touch by 👋 or abuubaida901@gmail.com
