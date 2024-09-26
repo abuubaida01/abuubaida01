@@ -11,9 +11,6 @@ Operating AddaZakat, a social media platform for connecting Needy Families with 
 <br/>
 
 <div align="center">
-  
-  
-# 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abuubaida01&theme=gruvbox&hide_border=false)<br/><br/>
 
