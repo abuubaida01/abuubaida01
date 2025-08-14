@@ -1,19 +1,28 @@
 # 💫 About Me
-### [Assalam-O-Alaikum](https://www.google.com/search?client=ubuntu-sn&channel=fs&q=what+is+mean+by+Assalam-O-Alaikum) | Hey 👋<br><br> 
-Recent graduate with a Bachelor's degree in Software Engineering (BSSE) from Umaer Basha Institute of Information Technology (UBIT), Karachi, achieved 3.1 GPA. Currently, I serve as a Junior Software Engineer at Smartbenefits, a position I've held since January 2024.<br><br>
 
-- 💻 Proficient in Python, Django, Django Rest-Framework, Machine Learning, HTML, CSS, JavaScript, React, and well-versed in cloud computing (GCP), containerization, Kubernetes, and CI/CD best practices.
-- 🔍 Always ready for exciting opportunities as a Software Engineer to apply my skills and drive mutual success.<br><br>
+### [Assalam-O-Alaikum](https://www.google.com/search?q=what+is+the+meaning+of+Assalam-O-Alaikum) | Hey 👋
 
-Operating AddaZakat, a social media platform for connecting Needy Families with Donors to get help, that is currently under development for a better experience! Visit: <a href="https://addazakat.com">addazakat.com</a><br><br>
-📫 You can get in touch by 👋 Hi on +92-331-2371338 | abuubaida901@gmail.com<br><br>
+AI-first Software Engineer with **2.8+ years of experience** in building scalable, intelligent, and high-performance applications. I specialize in **Python, Django, FastAPI, Celery, AI-driven architectures**, and cloud-based solutions.
 
-<br/>
+I began my journey in **2023** by developing [**AddaZakat**](https://addazakat.com), a large-scale live platform for transparent Zakat & donation management. Since **2024**, I’ve been working at **Smartbenefits.pk**, where I design and deliver enterprise-grade **HR and healthcare solutions** with a strong focus on performance, automation, and AI integration.
+
+---
+
+* 💻 **Core Skills**: Python, Django, Django Rest Framework, FastAPI, Celery, React.js, Tailwind CSS, SQL/PostgreSQL, Redis, AWS, Docker.
+* 🤖 **AI/ML**: RAG, LLMs, LangChain, Hugging Face, Ollama, OpenAI API.
+* ⚡ **Key Achievements**:
+
+  * Boosted HR portal performance by **90%** using Redis caching & API optimization.
+  * Automated corporate processes with Celery, cutting manual workload by **80%**.
+  * Built a **RAG-based hospital data assistant** for real-time, accurate healthcare insights.
+  * Developed OPD claim filing automation & provident fund tracking features used weekly by 1000+ employees.
+
+📫 **Contact**: +92-331-2371338 | [abuubaida901@gmail.com](mailto:abuubaida901@gmail.com) | [LinkedIn](https://linkedin.com/in/abuubaidaaz) | [Portfolio](https://abuubaida01.github.io)
+
+---
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abuubaida01&theme=gruvbox&hide_border=false)<br/><br/>
-
-<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abuubaida01\&theme=gruvbox\&hide_border=false)
 
 </div>
