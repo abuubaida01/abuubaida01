@@ -1,24 +1,29 @@
-# 💫 About Me
+# About Me
 
-### [Assalam-O-Alaikum](https://www.google.com/search?q=what+is+the+meaning+of+Assalam-O-Alaikum) | Hey 👋
+I build things that replace entire teams.
 
-AI-first Software Engineer with **3+ years of experience** in building scalable, intelligent, and high-performance applications. I specialize in **Python, Django, FastAPI, Celery, AI-driven architectures**, and cloud-based solutions.
 
-I began my journey in **2023** by developing [**AddaZakat**](https://addazakat.com), a large-scale live platform for transparent Zakat & donation management. Since **2024**, I’ve been working at **Smartbenefits.pk**, where I design and deliver enterprise-grade **HR and healthcare solutions** with a strong focus on performance, automation, and AI integration.
+In 3+ years as a full-stack engineer, I've shipped AI-powered platforms that now serve 20,000+ users — automating workflows that used to eat 20+ hours a week of manual human effort. Not because automation is trendy, but because well-engineered systems genuinely set people free to do higher-leverage work.
 
----
 
-* 💻 **Core Skills**: Python, Django, Django Rest Framework, FastAPI, Celery, React.js, Tailwind CSS, SQL/PostgreSQL, Redis, AWS, Docker.
-* 🤖 **AI/ML**: RAG, Agents, LLMs,Hugging Face, Ollama, OpenAI API. ADK, Gemini APIs
+At Smartbenefits, I architected Pakistan's first remittance-linked health insurance product from zero — three platforms, WhatsApp-based policy issuance, and live webhook integrations with Qatar-based enterprises (Vodafone, Ompay) and Bank of Punjab Exchange. No playbook existed. I wrote it.
 
-* ⚡ **Key Achievements**:
-  * Boosted HR portal performance by **90%** using Redis caching & API optimization.
-  * Automated corporate processes with Celery, cutting manual workload by **80%**.
-  * Built a **RAG-based hospital data assistant** for real-time, accurate healthcare insights.
-  * Developed OPD claim filing automation & provident fund tracking features used weekly by 1000+ employees.
 
-📫 **Contact**: +92-331-2371338 | [abuubaida901@gmail.com](mailto:abuubaida901@gmail.com) | [LinkedIn](https://linkedin.com/in/abuubaidaaz) | [Portfolio](https://abuubaida01.github.io) | [Resume](https://app.rezi.ai/s/gVQ0ytCC3Wl1q7TQJIFI)
----
+I also built a multi-agentic AI chatbot that resolves 1,000+ medical queries every month at 85%+ accuracy — and the part I'm proudest of: it gets smarter on its own. Every OPD claim settlement feeds the knowledge base automatically, with zero engineering involvement after deployment. That's the difference between shipping a feature and engineering a system.
+
+
+My stack spans the full depth — FastAPI, Django, LangGraph, RAG pipelines, Vertex AI, ADK, React/Next.js, PostgreSQL, Redis, Docker, AWS, GCP — but what I actually sell is judgment: knowing when to reach for AI and when a well-placed cron job is the smarter call.
+
+
+I'm actively looking for remote roles or relocation opportunities with companies building meaningful products at scale. If you're a founder pushing something ambitious, or a team that wants infrastructure that genuinely holds — let's talk.
+
+
+~ abuubaida901@gmail.com <br>
+~ abuubaida01.github.io <br>
+~ linkedin.com/in/abuubaidaaz/ <br>
+~ +92 331 2371338
+
+<br>
 
 <div align="center">
 
